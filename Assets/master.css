@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: #E5E5E5;
+}
+
+.tableauPlaceholder {
+  margin: 0 auto;
+  width: 80%;
+  padding-top: 30px;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 80%;
+}
+
+h2 {
+  font-family: Grandstander;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 68px;
+  text-align: center;
+}
+
+h4 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  font-weight: bold;
+}
