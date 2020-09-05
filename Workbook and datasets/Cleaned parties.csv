@@ -1,0 +1,121 @@
+id,parent_id,uec_id,party_name_pretty_mm,party_name_pretty_en,acronym_mm,acronym_en,start_date,mod_date,status
+5f3f913dd8102c44a0dee866,[],5f3f9035c749de0ddc9de02d,"မြို (ခေါ်) ခမီ အမျိုးသားညီညွတ်ရေးအဖွဲ့","Mro Or Khami National Solidarity Organization",NULL,MKNSO,NULL,NULL,name_changed
+5f3f913dd8102c44a0dee868,[],5f3f9035c749de0ddc9de02e,တိုင်းရင်းသားစည်းလုံးညီညွတ်ရေးပါတီ,"National Unity Party",NULL,NUP,NULL,NULL,active
+5f3f913dd8102c44a0dee869,[],5f3f9035c749de0ddc9de02f,လားဟူအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ,"Lahu National Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee86a,[],5f3f9035c749de0ddc9de030,ကိုးကန့်ဒီမိုကရေစီနှင့်ညီညွတ်ရေးပါတီ,"Kokang Democracy and Unity Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee86b,[],5f3f9035c749de0ddc9de031,ပအိုဝ်းအမျိုးသားအဖွဲ့ချုပ်,"Pa-O National Organization (PNO)",NULL,PNO,NULL,NULL,active
+5f3f913dd8102c44a0dee86c,[],5f3f9035c749de0ddc9de032,"ဒီမိုကရက်တစ်ပါတီ (မြန်မာ)","Democratic Party (Myanmar)",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee86d,[],5f3f9035c749de0ddc9de033,ကယန်းအမျိုးသားပါတီ,"Kayan National Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee86e,[],5f3f9035c749de0ddc9de034,မြန်မာနိုင်ငံရခိုင်ပြည်နယ်အမျိုးသားအင်အားစုပါတီ,"Rakhine State National Force of Myanmar",NULL,RSNF,NULL,2014-06-20,name_changed
+5f3f913dd8102c44a0dee870,[],5f3f9035c749de0ddc9de035,ကရင်ပြည်သူ့ပါတီ,"Kayin People's Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee871,[],5f3f9035c749de0ddc9de036,""ဝ"" အမျိုးသားစည်းလုံးညီညွတ်ရေးပါတီ"","Wa National Unity Party",NULL,NULL,NULL,NULL,merge_to_new
+5f3f913dd8102c44a0dee872,[],5f3f9035c749de0ddc9de037,ပြည်ထောင်စုကရင်အမျိုးသားများအဖွဲ့ချုပ်,"Union Karen League",NULL,NULL,NULL,NULL,dissolved
+5f3f913dd8102c44a0dee873,[],5f3f9035c749de0ddc9de038,တအာင်း(ပလောင်)အမျိုးသားပါတီ,"Ta-Arng (Palaung) National Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee874,[],5f3f9035c749de0ddc9de039,မွန်ဒေသလုံးဆိုင်ရာဒီမိုကရေစီပါတီ,"All Mon Region Democracy Party",NULL,NULL,NULL,2019-05-16,merge_to_new
+5f3f913dd8102c44a0dee875,[],5f3f9035c749de0ddc9de03a,ဒီမိုကရေစီနှင့်ငြိမ်းချမ်းရေးပါတီ,"Democracy and Peace Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee876,[],5f3f9035c749de0ddc9de03b,ရှမ်းတိုင်းရင်းသားများဒီမိုကရက်တစ်ပါတီ,"Shan Nationalities Democratic Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee877,[],5f3f9035c749de0ddc9de03c,ညီညွတ်သောဒီမိုကရက်တစ်ပါတီ,"United Democratic Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee878,[],5f3f9035c749de0ddc9de03d,"၈၈ မျိုးဆက်ကျောင်းသားလူငယ်များ (ပြည်ထောင်စုမြန်မာနိုင်ငံ) ပါတီ","88 Generation Student Youths (Union of Myanmar)",NULL,NULL,NULL,NULL,temp_suspend
+5f3f913dd8102c44a0dee879,[],5f3f9035c749de0ddc9de03e,ပြည်ထောင်စုမြန်မာနိုင်ငံအမျိုးသားနိုင်ငံရေးအဖွဲ့ချုပ်ပါတီ,"The Union of Myanmar Federation of National Politics",NULL,NULL,NULL,NULL,temp_suspend
+5f3f913dd8102c44a0dee87a,[],5f3f9035c749de0ddc9de03f,အမျိုးသားနိုင်ငံရေးမဟာမိတ်များအဖွဲ့ချုပ်ပါတီ,"National Political Alliance League",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee87b,[],5f3f9035c749de0ddc9de040,မြန်မာ့လူ့ဘောင်သစ်ဒီမိုကရက်တစ်ပါတီ,"Democracy Party For Myanmar New Society",NULL,NULL,NULL,NULL,dissolved
+5f3f913dd8102c44a0dee87c,[],5f3f9035c749de0ddc9de041,ချင်းအမျိုးသားပါတီ,"Chin National Party",NULL,NULL,NULL,NULL,name_changed
+5f3f913dd8102c44a0dee87e,[],5f3f9035c749de0ddc9de042,"ဝံသာနု NLD (ပြည်ထောင်စု မြန်မာနိုင်ငံ)","Wunthanu NLD (The Union Of Myanmar)",NULL,NULL,NULL,NULL,name_changed
+5f3f913dd8102c44a0dee880,[],5f3f9035c749de0ddc9de043,ခေတ်သစ်ပြည်သူ့ပါတီ,"Modern People Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee881,[],5f3f9035c749de0ddc9de044,ပြည်ထောင်စုဒီမိုကရေစီပါတီ,"Union Democratic Party",NULL,NULL,NULL,2020-08-12,dissolved
+5f3f913dd8102c44a0dee882,[],5f3f9035c749de0ddc9de045,မတူကွဲပြားခြင်းနှင့်ငြိမ်းချမ်းရေးပါတီ,"Peace for Diversity Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee883,[],5f3f9035c749de0ddc9de046,ချင်းတိုးတက်ရေးပါတီ,"Chin Progressive Party",NULL,CPP,NULL,2019-05-16,merge_to_new
+5f3f913dd8102c44a0dee884,[],5f3f9035c749de0ddc9de047,အင်းအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ,"Inn National Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee885,[],5f3f9035c749de0ddc9de048,ရခိုင်တိုင်းရင်းသားများတိုးတက်ရေးပါတီ,"Rakhine Nationalities Development Party",NULL,RNDP,NULL,NULL,merge_to_new
+5f3f913dd8102c44a0dee886,[],5f3f9035c749de0ddc9de049,""ဝ""ဒီမိုကရက်တစ်ပါတီ"","Wa Democratic Party",NULL,NULL,NULL,NULL,merge_to_new
+5f3f913dd8102c44a0dee887,[],5f3f9035c749de0ddc9de04a,ဖလုံ-စဝေါ်ဒီမိုကရက်တစ်ပါတီ,"Phlone-Sqaw Democratic Party",NULL,PSDP,NULL,NULL,active
+5f3f913dd8102c44a0dee888,[],5f3f9035c749de0ddc9de04b,အမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးဒီမိုကရက်တစ်ပါတီ,"National Democratic Party for Development (NDPD)",NULL,NDPD,NULL,NULL,active
+5f3f913dd8102c44a0dee889,[],5f3f9035c749de0ddc9de04c,ပြည်ထောင်စုကြံ့ခိုင်ရေးနှင့်ဖွံ့ဖြိုးရေးပါတီ,"Union Solidarity and Development Party",NULL,USDP,NULL,NULL,active
+5f3f913dd8102c44a0dee88a,[],5f3f9035c749de0ddc9de04d,တိုင်းရင်းသားလူမျိုးစုများဖွံ့ဖြိုးရေးပါတီ,"Ethnic National Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee88b,[],5f3f9035c749de0ddc9de04e,မြန်မာဒီမိုကရေစီကွန်ဂရက်ပါတီ,NULL,NULL,NULL,NULL,NULL,dissolved
+5f3f913dd8102c44a0dee88c,[],5f3f9035c749de0ddc9de04f,မြိုတိုင်းရင်းသားပါတီ,NULL,NULL,NULL,NULL,NULL,dissolved
+5f3f913dd8102c44a0dee88d,[],5f3f9035c749de0ddc9de050,ကမန်အမျိုးသားတိုးတက်ရေးပါတီ,"Kaman National Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee88e,[],5f3f9035c749de0ddc9de051,ခမီအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ,"Khami National Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee88f,[],5f3f9035c749de0ddc9de052,အမျိုးသားဒီမိုကရေစီအင်အားစုပါတီ,"National Democratic Force",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee890,[],5f3f9035c749de0ddc9de053,"ဒေသဖွံ့ဖြိုးတိုးတက်ရေးပါတီ (ပြည်)",NULL,NULL,NULL,NULL,NULL,dissolved
+5f3f913dd8102c44a0dee891,[],5f3f9035c749de0ddc9de054,"စည်းလုံးညီညွတ်ရေးနှင့်ဒီမိုကရေစီပါတီ ကချင်ပြည်နယ်","Unity and Democracy Party of Kachin State",စဒက,NULL,NULL,2018-01-31,merge_to_new
+5f3f913dd8102c44a0dee892,[],5f3f9035c749de0ddc9de055,ကရင်ပြည်နယ်ဒီမိုကရေစီနှင့်ဖွံ့ဖြိုးတိုးတက်ရေးပါတီ,"Kayin State Democracy and Development Party (KSDDP)",NULL,KSDDP,NULL,NULL,merge_to_new
+5f3f913dd8102c44a0dee893,[],5f3f9035c749de0ddc9de056,အမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးနှင့်ငြိမ်းချမ်းရေးပါတီ,"National Development and Peace Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee894,[],5f3f9035c749de0ddc9de057,ပြည်သူ့ဒီမိုကရေစီပါတီ,"People Democracy Party",NULL,NULL,NULL,NULL,temp_suspend
+5f3f913dd8102c44a0dee896,[],5f3f9035c749de0ddc9de058,အမျိုးသားဒီမိုကရေစီပါတီသစ်,"New National Democracy Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee897,[],5f3f9035c749de0ddc9de059,ဒီမိုကရက်တစ်မဟာမိတ်ပါတီ,NULL,NULL,NULL,NULL,NULL,dissolved
+5f3f913dd8102c44a0dee899,[],5f3f9035c749de0ddc9de05a,ဗမာပြည်သူ့ပါတီ,"Bamar People’s Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee89a,[],5f3f9035c749de0ddc9de05b,အမျိုးသားဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ,"National League for Democracy",NULL,NLD,NULL,NULL,active
+5f3f913dd8102c44a0dee89b,[],5f3f9035c749de0ddc9de05c,၈၈-ပြည်သူ့အင်အားစုပါတီ,NULL,NULL,NULL,NULL,NULL,dissolved
+5f3f913dd8102c44a0dee89c,[],5f3f9035c749de0ddc9de05d,မြန်မာ့လူ့ဘောင်သစ်ဒီမိုကရက်တစ်ပါတီ,"Myanmar New Society Democratic Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee89d,[],5f3f9035c749de0ddc9de061,"တိုင်းလိုင် (ရှမ်းနီ) အမျိုးသားများဖွံ့ဖြိုးတိုးတက်ရေးပါတီ","Tai-Leng Nationalities Development Party",NULL,TNDP,NULL,NULL,active
+5f3f913dd8102c44a0dee89e,[],5f3f9035c749de0ddc9de05e,မြန်မာအမျိုးသားကွန်ဂရက်ပါတီ,"Myanmar National Congress",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee89f,[],5f3f9035c749de0ddc9de05f,ကရင်ဒီမိုကရက်တစ်ပါတီ,"Karen Democratic Party",NULL,KDP,NULL,NULL,merge_to_new
+5f3f913dd8102c44a0dee8a0,[],5f3f9035c749de0ddc9de060,မြိုတိုင်းရင်းသားပါတီ,"Mro Nationality Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8a1,[],5f3f9035c749de0ddc9de062,ရခိုင်ဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ,"Arakan League for Democracy",NULL,ALD,NULL,NULL,merge_to_new
+5f3f913dd8102c44a0dee8a2,[],5f3f9035c749de0ddc9de063,အရှိုချင်းအမျိုးသားပါတီ,"Asho Chin National Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8a3,[],5f3f9035c749de0ddc9de064,ရှမ်းတိုင်းရင်းသားများဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ,"Shan Nationalities League for Democracy",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8a4,[],5f3f9035c749de0ddc9de065,ဓနုတိုင်းရင်းသားလူမျိုးများဒီမိုကရေစီပါတီ,"Danu National Democracy Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8a5,[],5f3f9035c749de0ddc9de066,မွန်အမျိုးသားပါတီ,"Mon National Party",NULL,NULL,NULL,2019-05-16,merge_to_new
+5f3f913dd8102c44a0dee8a6,[],5f3f9035c749de0ddc9de067,ဇိုမီးဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ,"Zomi Congress for Democracy",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8a7,[],5f3f9035c749de0ddc9de068,ရှမ်းပြည်ကိုးကန့်ဒီမိုကရက်တစ်ပါတီ,"Shan State Kokang Democratic Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8a8,[],5f3f9035c749de0ddc9de069,မြန်မာနိုင်ငံတောင်သူလယ်သမားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ,"Myanmar Farmers Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8a9,[],5f3f9035c749de0ddc9de06a,အမျိုးသားညီညွတ်ရေးကွန်ဂရက်ပါတီ,"National Unity Congress Party",NULL,NULL,NULL,2019-06-30,temp_suspend
+5f3f913dd8102c44a0dee8ab,[],5f3f9035c749de0ddc9de06b,ဒီမိုကရေစီနှင့်လူ့အခွင့်အရေးပါတီ,"Democracy and Human Rights Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8ac,[],5f3f9035c749de0ddc9de06c,"လူမျိုးပေါင်းစုံဒီမိုကရေစီပါတီ (ကယားပြည်နယ်)","All Nationals' Democracy Party Kayah State",NULL,NULL,NULL,NULL,merge_to_new
+5f3f913dd8102c44a0dee8ae,[],5f3f9035c749de0ddc9de06d,ကယားလူမျိုးစုဒီမိုကရေစီပါတီ,"Kayah Unity Democracy Party",NULL,NULL,NULL,NULL,merge_to_new
+5f3f913dd8102c44a0dee8af,[],5f3f9035c749de0ddc9de06e,အမျိုးသားတိုးတက်မြင့်မားရေးပါတီ,"National Prosperity Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8b0,[],5f3f9035c749de0ddc9de06f,ကချင်ပြည်နယ်ဒီမိုကရေစီပါတီ,"Kachin State Democracy Party (KSDP)",NULL,KSDP,NULL,2018-01-31,merge_to_new
+5f3f913dd8102c44a0dee8b1,[],5f3f9035c749de0ddc9de070,ကချင်အမျိုးသားများဒီမိုကရေစီကွန်ဂရက်,"The Kachin National Congress for Democracy",NULL,NULL,NULL,NULL,name_changed
+5f3f913dd8102c44a0dee8b2,[],5f3f9035c749de0ddc9de071,"လီဆူအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ (ဒူးလေးပါတီ)","Lisu National Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8b3,[],5f3f9035c749de0ddc9de072,ထားဝယ်တိုင်းရင်းသားများပါတီ,"Dawei Nationalities Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8b4,[],5f3f9035c749de0ddc9de073,ဖက်ဒရယ်ပြည်ထောင်စုပါတီ,"Federal Union Party (FUP)",NULL,FUP,NULL,NULL,active
+5f3f913dd8102c44a0dee8b5,[],5f3f9035c749de0ddc9de074,ကချင်ဒီမိုကရက်တစ်ပါတီ,"Kachin Democratic Party",NULL,KDP,NULL,2018-01-31,merge_to_new
+5f3f913dd8102c44a0dee8b6,[],5f3f9035c749de0ddc9de075,"ပြည်ထောင်စုပအိုဝ်းအမျိုးသားအဖွဲ့ချုပ် (ပ.အ.မ.ဖ) ပါတီ","Union Pa-O National Organization",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8b9,[],5f3f9035c749de0ddc9de077,ချင်းဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ,"Chin League for Democracy",NULL,CLD,NULL,2019-05-16,merge_to_new
+5f3f913dd8102c44a0dee8ba,[],5f3f9035c749de0ddc9de078,"ခူမီး (ခမီး) အမျိုးသားပါတီ","Khumi (Khami) National Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8bb,[],5f3f9035c749de0ddc9de079,လူ့ဘောင်သစ်ဒီမိုကရက်တစ်ပါတီ,"Democratic Party for a New Society",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8bc,[],5f3f9035c749de0ddc9de07a,ကရင်အမျိုးသားပါတီ,"Karen National Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8bd,[],5f3f9035c749de0ddc9de07b,မြန်မာနိုင်ငံတောင်သူလယ်သမားအလုပ်သမားပြည်သူ့ပါတီ,"People’s Party of Myanmar Farmers and Workers",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8be,[],5f3f9035c749de0ddc9de07c,မြိုအမျိုးသားဒီမိုကရေစီပါတီ,"Mro National Democracy Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8bf,[],5f3f9035c749de0ddc9de07d,ဓနုအမျိုးသားများအဖွဲ့ချုပ်ပါတီ,"Danu National Organization Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8c0,[],5f3f9035c749de0ddc9de07e,ပြည်သူ့အကျိုးပြုကျောင်းသားများဒီမိုကရေစီပါတီ,"Public Contribute Students Democracy Party",NULL,NULL,NULL,NULL,name_changed
+5f3f913dd8102c44a0dee8c2,[],5f3f9035c749de0ddc9de07f,လမ်းပြကြယ်ပါတီ,"Guiding Star Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8c3,[],5f3f9035c749de0ddc9de080,"ရှမ်းနီ (တိုင်းလိုင်) နှင့်မြောက်ပိုင်းရှမ်းမျိုးနွယ်စုများသွေးစည်းညီညွတ်ရေးပါတီ","Shan-ni and Northern Shan Ethnics Solidarity Party",NULL,NULL,NULL,NULL,false
+5f3f913dd8102c44a0dee8c5,[],5f3f9035c749de0ddc9de081,လူ့ဘောင်သစ်ပါတီ,"New Society Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8c6,[],5f3f9035c749de0ddc9de082,အင်းတိုင်းရင်းသားအဖွဲ့ချုပ်ပါတီ,"Inn National League",NULL,NULL,NULL,2019-03-28,discontinued
+5f3f913dd8102c44a0dee8c7,[],5f3f9035c749de0ddc9de083,"၈၈ မျိုးဆက်ဒီမိုကရေစီပါတီ","88 Generation Democracy Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8c8,[],5f3f9035c749de0ddc9de084,စည်းလုံးညီညွတ်သောကရင်အမျိုးသားဒီမိုကရက်တစ်ပါတီ,"Kayin Unity Democratic Party",NULL,NULL,NULL,NULL,merge_to_new
+5f3f913dd8102c44a0dee8c9,[],5f3f9035c749de0ddc9de085,လော်ဝေါ်အမျိုးသားစည်းလုံးညီညွတ်ရေးနှင့်ဖွံ့ဖြိုးရေးပါတီ,"Lhaovo National Unity and Development Party",NULL,LNUDP,NULL,NULL,active
+5f3f913dd8102c44a0dee8ca,[],5f3f9035c749de0ddc9de086,ခေတ်သစ်ပြည်ထောင်စုပါတီ,"New Era Union Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8cb,[],5f3f9035c749de0ddc9de087,ရှမ်းပြည်နယ်အရှေ့ပိုင်းဖွံ့ဖြိုးတိုးတက်ရေးဒီမိုကရက်တစ်ပါတီ,"Eastern Shan State Development Democratic Party",NULL,NULL,NULL,2020-02-19,discontinued
+5f3f913dd8102c44a0dee8cc,[],5f3f9035c749de0ddc9de088,မဟာမိတ်တောင်သူလယ်သမားပါတီ,"Confederate Farmers Party",NULL,NULL,NULL,NULL,penalized
+5f3f913dd8102c44a0dee8cd,[],5f3f9035c749de0ddc9de089,အာခါအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ,"Akha National Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8ce,[],5f3f9035c749de0ddc9de08c,"အမျိုးသမီးပါတီ (မွန်)","Women Party (Mon)",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8cf,[],5f3f9035c749de0ddc9de08a,ဇိုတိုင်းရင်းသားဒေသဖွံ့ဖြိုးရေးပါတီ,"Zo National Region Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8d0,[],5f3f9035c749de0ddc9de08b,အမျိုးသားတိုးတက်ရေးပါတီ,"National Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8d1,[],5f3f9035c749de0ddc9de08d,ရခိုင်မျိုးချစ်ပါတီ,"Arakan Patriot Party",NULL,NULL,NULL,NULL,discontinued
+5f3f913dd8102c44a0dee8d2,[],5f3f9035c749de0ddc9de08e,စေ့စပ်ညှိနှိုင်းရေးနှင့်တည်ငြိမ်အေးချမ်းရေးပါတီ,"Negotiation, Stability and Peace Party",NULL,NULL,NULL,NULL,name_changed
+5f3f913dd8102c44a0dee8d4,[],5f3f9035c749de0ddc9de08f,ပြည်ထောင်စုတောင်သူလယ်သမားအင်အားစုပါတီ,"Union Farmer Force Party",NULL,NULL,NULL,NULL,name_changed
+5f3f913dd8102c44a0dee8d6,[],5f3f9035c749de0ddc9de090,ဒိုင်းနက်လူမျိုးများတိုးတက်ရေးပါတီ,"Daingnet Ethnics Development Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8d7,[],5f3f9035c749de0ddc9de091,""ဝ"" လစ်ဘရယ်ဒီမိုကရက်တစ်တိုးတက်ဖွံ့ဖြိုးရေးပါတီ"","Wa Liberal Democratic Development Party",NULL,NULL,NULL,NULL,merge_to_new
+5f3f913dd8102c44a0dee8d8,[],5f3f9035c749de0ddc9de092,မြန်မာ့ပြည်သူ့ဒီမိုကရက်တစ်ပါတီ,"Myanmar People's Democratic Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8d9,[],5f3f9035c749de0ddc9de093,ရခိုင်ဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ,"Arakan League for Democracy Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8da,[],5f3f9035c749de0ddc9de094,ပြည်သူ့အလုပ်သမားပါတီ,"Public of Labour Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8dc,[],5f3f9035c749de0ddc9de096,ပြည်ထောင်စုတိုင်းရင်းသားများဖက်ဒရယ်ဒီမိုကရေစီပါတီ,"Union Ethnic People's Federal Democracy Party",NULL,UNFDP,NULL,NULL,merge_to_existing
+5f3f913dd8102c44a0dee8dd,[],5f3f9035c749de0ddc9de097,ပြည်သူ့ဘဝဖွံ့ဖြိုးတိုးတက်ရေးပါတီ,"People Life Development Party",NULL,PLDP,NULL,2018-08-23,dissolved
+5f3f913dd8102c44a0dee8df,[],5f3f9035c749de0ddc9de099,အမျိုးသားညီညွတ်သောဒီမိုကရက်တစ်ပါတီ,"National United Democratic Party (N.U.D)",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8e0,[],5f3f9035c749de0ddc9de09a,ပြည်သူ့ပါတီ,"People's Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8e2,[],5f3f9035c749de0ddc9de09c,ပြည်ထောင်စုကောင်းကျိုးဆောင်ပါတီ,"Union Betterment Party (UBP)",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8e3,[],5f3f9035c749de0ddc9de09d,အခြေခံလူတန်းစားဘဝမြင့်မားရေးပါတီ,"The Yeomanry Development Party (YDP)",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8e4,[],5f3f9035c749de0ddc9de09e,အမျိုးသားနိုင်ငံရေးဒီမိုကရက်တစ်ပါတီ,"Democratic Party of National Politics (DNP)",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8e9,[],5f3f9035c749de0ddc9de0a2,ချင်းတိုင်းရင်းသားများပါတီ,"Chin National Party (CNP)",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8ea,[],5f3f9035c749de0ddc9de0a3,"ဒီမိုကရေစီပါတီသစ် (ကချင်)","New Democracy Party (Kachin)",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8eb,[],5f3f9035c749de0ddc9de0a4,နာဂအမျိုးသားပါတီ,"Naga National Party (NNP)",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8ec,[],5f3f9035c749de0ddc9de0a5,ပြည်သူ့အင်အားပါတီ,"People Force Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8ed,[],5f3f9035c749de0ddc9de0a6,ပြည်သူ့ရှေ့ဆောင်ပါတီ,"People's Pioneer Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8ee,[],5f3f9035c749de0ddc9de0a7,ညီညွတ်သောတိုင်းရင်းသားလူမျိုးများဒီမိုကရေစီပါတီ,"United Nationalities Democracy Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8ef,[],5f3f9035c749de0ddc9de0a8,အင်းအမျိုးသားအဖွဲ့ချုပ်ပါတီ,"Inn National League Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8f0,[],5f3f9035c749de0ddc9de0a9,ကချင်အမျိုးသားပါတီ,"Kachin National Party",NULL,NULL,NULL,NULL,active
+5f3f913dd8102c44a0dee8f1,[],5f3f9035c749de0ddc9de0aa,မြန်မာနိုင်ငံအလုပ်သမားလယ်သမားမဟာမိတ်ပါတီ,"Alliance of Myanmar’s Worker and Farmer Party (A.M.W.F.P)",NULL,AMWFP,NULL,NULL,active
+5f3f913dd8102c44a0dee8f2,[],5f3f9035c749de0ddc9de0ab,"၈၈ မျိုးဆက်ညီနောင်ပါတီ","The 88 Generation Brotherhood Party",NULL,NULL,NULL,NULL,dissolved
